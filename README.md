@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/realarnobroy/" target="blank"><img align="center" src="https://img.icons8.com/clouds/150/linkedin.png" alt="www.linkedin.com/in/realarnobroy"></a>
+<a href="https://www.linkedin.com/in/realarnobroy/" target="blank"><img align="center" src="https://img.icons8.com/clouds/100/linkedin.png" alt="www.linkedin.com/in/realarnobroy"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
